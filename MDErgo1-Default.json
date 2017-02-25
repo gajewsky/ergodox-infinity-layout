@@ -527,8 +527,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -660,6 +660,10 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
+                },
+                "2": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             }
         },
@@ -1121,8 +1125,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             }
         }
