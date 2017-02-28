@@ -22,8 +22,8 @@
                     "label": "PREV-\u0192"
                 },
                 "1": {
-                    "key": "F11",
-                    "label": "F11"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -139,6 +139,10 @@
                 "0": {
                     "key": "PRINTSCREEN",
                     "label": "PRSC"
+                },
+                "1": {
+                    "key": "F11",
+                    "label": "F11"
                 }
             }
         },
@@ -334,6 +338,10 @@
                 "0": {
                     "key": "CONS:CALCULATOR",
                     "label": "CALC"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             }
         },
@@ -490,6 +498,10 @@
                 "0": {
                     "key": "CONS:FASTFORWARD",
                     "label": "FF"
+                },
+                "1": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
@@ -548,8 +560,8 @@
                     "label": "NEXT-\u0192"
                 },
                 "1": {
-                    "key": "F12",
-                    "label": "F12"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             }
         },
@@ -681,6 +693,10 @@
                 "0": {
                     "key": "RBRACE",
                     "label": "]"
+                },
+                "1": {
+                    "key": "F12",
+                    "label": "F12"
                 }
             }
         },
@@ -908,6 +924,10 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
