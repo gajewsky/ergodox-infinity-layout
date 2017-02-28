@@ -18,8 +18,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 },
                 "1": {
                     "key": "F11",
@@ -120,8 +120,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
                 }
             }
         },
@@ -293,8 +293,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },
@@ -332,8 +332,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:'('",
-                    "label": "("
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
                 }
             }
         },
@@ -410,8 +410,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -527,8 +527,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PREV LAYER",
-                    "label": "PREV-\u0192"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
+                },
+                "2": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
@@ -540,8 +544,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 },
                 "1": {
                     "key": "F12",
@@ -902,8 +906,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:')'",
-                    "label": ")"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -1065,8 +1069,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "RALT",
+                    "label": "RALT"
                 }
             }
         },
@@ -1078,8 +1082,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
@@ -1108,8 +1112,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "UP",
+                    "label": "\u2191"
                 },
                 "2": {
                     "key": "PENTER",
@@ -1125,8 +1129,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "NEXT LAYER",
-                    "label": "NEXT-\u0192"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             }
         }

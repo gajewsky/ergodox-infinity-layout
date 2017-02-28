@@ -8,6 +8,7 @@ Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
 U"EQUALS" : flashMode();
+U"LGUI" : None;
 U"7" : U"NUMLOCK";
 U"8" : U"P/";
 U"9" : U"P*";
