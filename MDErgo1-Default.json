@@ -297,8 +297,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -323,8 +323,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -418,8 +418,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -444,8 +444,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "INSERT",
+                    "label": "INS"
                 }
             }
         },
@@ -496,8 +496,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CONS:FASTFORWARD",
-                    "label": "FF"
+                    "key": "F3",
+                    "label": "F3"
                 },
                 "1": {
                     "key": "#:None",
@@ -539,8 +539,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 },
                 "2": {
                     "key": "#:None",
@@ -691,8 +691,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 },
                 "1": {
                     "key": "F12",
@@ -909,8 +909,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -1046,8 +1046,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "INSERT",
-                    "label": "INS"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -1115,8 +1115,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "UP",
+                    "label": "\u2191"
                 },
                 "2": {
                     "key": "P.",
@@ -1132,8 +1132,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 },
                 "2": {
                     "key": "PENTER",
