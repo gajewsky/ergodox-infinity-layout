@@ -1,4 +1,5 @@
 Name = "MDErgo1";
+Variant = "standard";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
@@ -7,6 +8,8 @@ KLL = "0.3c";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
+
+
 U"ESC" : U"PREV LAYER";
 U"5" : U"5";
 U"4" : U"4";
@@ -14,29 +17,29 @@ U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
 U"EQUALS" : U"ESCAPE";
-U"FUNCTION1" : U"PRINTSCREEN";
+U"FUNCTION1" : U"RALT";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
 U"W" : U"W";
 U"Q" : U"Q";
-U"BACKSLASH" : U"TAB";
+U"BACKSLASH" : U"BACKTICK";
 U"G" : U"G";
 U"F" : U"F";
 U"D" : U"D";
 U"S" : U"S";
 U"A" : U"A";
-U"TAB" : U"CAPSLOCK";
-U"LALT" : U"HOME";
-U"LCTRL" : U"LBRACE";
-U"FUNCTION2" : CONS"CALCULATOR";
+U"TAB" : U"TAB";
+U"LALT" : U"PAGEDOWN";
+U"LCTRL" : U"PAGEUP";
+U"FUNCTION2" : U"LBRACE";
 U"B" : U"B";
 U"V" : U"V";
 U"C" : U"C";
 U"X" : U"X";
 U"Z" : U"Z";
 U"LSHIFT" : U"LSHIFT";
-U"HOME" : U"END";
+U"HOME" : U"HOME";
 U"END" : U"INSERT";
 U"DELETE" : U"DELETE";
 U"BACKSPACE" : U"BACKSPACE";
@@ -52,7 +55,7 @@ U"8" : U"8";
 U"9" : U"9";
 U"0" : U"0";
 U"MINUS" : U"EQUAL";
-U"LBRACE" : U"BACKSLASH";
+U"LBRACE" : U"PRINTSCREEN";
 U"Y" : U"Y";
 U"U" : U"U";
 U"I" : U"I";
@@ -65,22 +68,26 @@ U"K" : U"K";
 U"L" : U"L";
 U"SEMICOLON" : U"SEMICOLON";
 U"QUOTE" : U"QUOTE";
-U"RALT" : U"PAGEUP";
+U"RALT" : U"LBRACE";
 U"RCTRL" : U"RBRACE";
-U"FUNCTION7" : U"LBRACE";
+U"FUNCTION7" : U"RBRACE";
 U"N" : U"N";
 U"M" : U"M";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
 U"SLASH" : U"SLASH";
 U"RSHIFT" : U"RSHIFT";
-U"PAGEUP" : U"PAGEDOWN";
+U"PAGEUP" : U"END";
 U"PAGEDOWN" : U"LGUI";
 U"ENTER" : U"ENTER";
 U"SPACE" : U"SPACE";
 U"LEFT" : U"RALT";
 U"DOWN" : U"LEFT";
-U"UP" : U"UP";
-U"RIGHT" : U"DOWN";
+U"UP" : U"DOWN";
+U"RIGHT" : U"UP";
 U"RGUI" : U"RIGHT";
+
+
+
+
 
