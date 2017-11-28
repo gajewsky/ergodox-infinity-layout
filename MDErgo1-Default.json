@@ -227,8 +227,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             }
         },
@@ -305,8 +305,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -422,8 +422,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
