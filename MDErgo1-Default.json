@@ -344,8 +344,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -934,8 +934,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
