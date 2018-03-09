@@ -934,8 +934,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },

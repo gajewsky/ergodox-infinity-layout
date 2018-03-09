@@ -1034,12 +1034,12 @@
                 ]
             },
             ":0 S030": {
-                "kll": "S0x01e : U0x04d;",
+                "kll": "S0x01e : U0x031;",
                 "result": [
                     [
                         {
                             "type": "USBCode",
-                            "uid": 77
+                            "uid": 49
                         }
                     ]
                 ],
