@@ -124,8 +124,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "`",
+                    "label": "`"
                 },
                 "1": {
                     "key": "#:flashMode()",
@@ -145,8 +145,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "[",
+                    "label": "["
                 },
                 "1": {
                     "key": "F11",
@@ -305,8 +305,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -422,8 +422,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -435,8 +435,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -500,8 +500,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "F3",
-                    "label": "F3"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -513,8 +513,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "]",
+                    "label": "]"
                 }
             }
         },
@@ -526,8 +526,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "[",
+                    "label": "["
                 }
             }
         },
@@ -695,8 +695,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "PRINTSCREEN",
-                    "label": "PRSC"
+                    "key": "]",
+                    "label": "]"
                 },
                 "1": {
                     "key": "F12",
@@ -900,8 +900,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "HOME",
+                    "label": "HOME"
                 },
                 "1": {
                     "key": "CONS:VOLUMEDOWN",
@@ -917,8 +917,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "END",
+                    "label": "END"
                 },
                 "1": {
                     "key": "CONS:VOLUMEUP",
@@ -1011,8 +1011,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SLASH",
-                    "label": "\/"
+                    "key": "\\",
+                    "label": "\\"
                 },
                 "2": {
                     "key": "PENTER",
@@ -1028,8 +1028,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RSHIFT",
-                    "label": "R\u21d1"
+                    "key": "\/",
+                    "label": "\/"
                 }
             }
         },
@@ -1041,8 +1041,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
