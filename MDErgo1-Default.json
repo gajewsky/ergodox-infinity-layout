@@ -344,8 +344,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -1011,8 +1011,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "\\",
-                    "label": "\\"
+                    "key": "\/",
+                    "label": "\/"
                 },
                 "2": {
                     "key": "PENTER",

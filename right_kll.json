@@ -6,6 +6,7 @@
         "LCDLayerDisplay": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 1,
             "name": "LCD_layerStack_capability"
         },
@@ -33,6 +34,7 @@
                 }
             ],
             "args_count": 5,
+            "features": "CapabilityFeature_None",
             "index": 0,
             "name": "LCD_layerStackExact_capability"
         },
@@ -64,7 +66,8 @@
                 }
             ],
             "args_count": 6,
-            "index": 21,
+            "features": "CapabilityFeature_None",
+            "index": 22,
             "name": "Pixel_Animation_capability"
         },
         "animationIndex": {
@@ -75,7 +78,8 @@
                 }
             ],
             "args_count": 1,
-            "index": 20,
+            "features": "CapabilityFeature_None",
+            "index": 21,
             "name": "Pixel_AnimationIndex_capability"
         },
         "animation_control": {
@@ -86,7 +90,8 @@
                 }
             ],
             "args_count": 1,
-            "index": 19,
+            "features": "CapabilityFeature_None",
+            "index": 20,
             "name": "Pixel_AnimationControl_capability"
         },
         "consCtrlOut": {
@@ -97,24 +102,28 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 10,
             "name": "Output_consCtrlSend_capability"
         },
         "flashMode": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 11,
             "name": "Output_flashMode_capability"
         },
         "kbdProtocolBoot": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 12,
             "name": "Output_kbdProtocolBoot_capability"
         },
         "kbdProtocolNKRO": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 13,
             "name": "Output_kbdProtocolNKRO_capability"
         },
@@ -126,8 +135,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 3,
-            "name": "Macro_layerLatch_capability"
+            "name": "Layer_layerLatch_capability"
         },
         "layerLock": {
             "args": [
@@ -137,8 +147,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 4,
-            "name": "Macro_layerLock_capability"
+            "name": "Layer_layerLock_capability"
         },
         "layerRotate": {
             "args": [
@@ -148,8 +159,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 5,
-            "name": "Macro_layerRotate_capability"
+            "name": "Layer_layerRotate_capability"
         },
         "layerShift": {
             "args": [
@@ -159,8 +171,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 6,
-            "name": "Macro_layerShift_capability"
+            "name": "Layer_layerShift_capability"
         },
         "layerState": {
             "args": [
@@ -174,8 +187,9 @@
                 }
             ],
             "args_count": 2,
+            "features": "CapabilityFeature_Safe",
             "index": 7,
-            "name": "Macro_layerState_capability"
+            "name": "Layer_layerState_capability"
         },
         "ledControl": {
             "args": [
@@ -189,6 +203,7 @@
                 }
             ],
             "args_count": 2,
+            "features": "CapabilityFeature_None",
             "index": 2,
             "name": "LED_control_capability"
         },
@@ -208,19 +223,38 @@
                 }
             ],
             "args_count": 3,
-            "index": 18,
+            "features": "CapabilityFeature_Safe",
+            "index": 19,
             "name": "Output_usbMouse_capability"
+        },
+        "mouseWheelOut": {
+            "args": [
+                {
+                    "name": "vertWheel",
+                    "width": 1
+                },
+                {
+                    "name": "horiWheel",
+                    "width": 1
+                }
+            ],
+            "args_count": 2,
+            "features": "CapabilityFeature_None",
+            "index": 18,
+            "name": "Output_usbMouseWheel_capability"
         },
         "noneOut": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 14,
             "name": "Output_noneSend_capability"
         },
         "pixel": {
             "args": [],
             "args_count": 0,
-            "index": 22,
+            "features": "CapabilityFeature_None",
+            "index": 23,
             "name": "Pixel_Pixel_capability"
         },
         "sysCtrlOut": {
@@ -231,24 +265,28 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 15,
             "name": "Output_sysCtrlSend_capability"
         },
         "testThreadSafe": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 8,
             "name": "Macro_testThreadSafe_capability"
         },
         "testThreadUnsafe": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 9,
             "name": "Macro_testThreadUnsafe_capability"
         },
         "toggleKbdProtocol": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 16,
             "name": "Output_toggleKbdProtocol_capability"
         },
@@ -260,6 +298,7 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 17,
             "name": "Output_usbCodeSend_capability"
         }
@@ -367,7 +406,7 @@
         },
         "MinDebounceTime": {
             "name": "MinDebounceTime_define",
-            "value": "5"
+            "value": "6"
         },
         "Output_HIDIOEnabled": {
             "name": "Output_HIDIOEnabled_define",
@@ -579,7 +618,7 @@
         },
         "latencyResources": {
             "name": "LatencyMeasurementCount_define",
-            "value": "8"
+            "value": "10"
         },
         "secureBootloaderEnabled": {
             "name": "SecureBootloader_define",
@@ -1129,12 +1168,12 @@
                 ]
             },
             ":0 S035": {
-                "kll": "S0x023 : U0x031;",
+                "kll": "S0x023 : U0x038;",
                 "result": [
                     [
                         {
                             "type": "USBCode",
-                            "uid": 49
+                            "uid": 56
                         }
                     ]
                 ],
@@ -1767,12 +1806,12 @@
                 ]
             },
             ":1 S030": {
-                "kll": "S0x04b : U0x04a;",
+                "kll": "S0x04b : U0x029;",
                 "result": [
                     [
                         {
                             "type": "USBCode",
-                            "uid": 74
+                            "uid": 41
                         }
                     ]
                 ],
